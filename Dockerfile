@@ -14,6 +14,7 @@ WORKDIR /app
 COPY --from=builder /build/public ./public
 COPY --from=builder /build/.next/standalone ./
 COPY --from=builder /build/.next/static ./.next/static
+COPY --from=builder /build/node_modules/next ./node_modules/next
 
 EXPOSE 3002
 
