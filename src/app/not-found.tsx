@@ -1,6 +1,6 @@
 import HomeTemplate from "@/components/template/home";
 
-const Home = async ({
+const NotFound = async ({
   searchParams,
 }: {
   searchParams: { [key: string]: string | undefined };
@@ -10,4 +10,4 @@ const Home = async ({
   return <HomeTemplate viewport={viewport} os={os} />;
 };
 
-export default Home;
+export default NotFound;

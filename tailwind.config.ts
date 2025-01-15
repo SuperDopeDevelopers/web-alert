@@ -11,6 +11,16 @@ export default {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        line: "var(--line)",
+      },
+      width: {
+        sm: "480px",
+        md: "768px",
+        lg: "976px",
+        xl: "1440px",
+      },
+      borderWidth: {
+        1: "1px",
       },
     },
   },

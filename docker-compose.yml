@@ -1,0 +1,16 @@
+version: "3.8"
+
+services:
+  along:
+    image: sjw7324/along:latest
+    container_name: along
+    ports:
+      - "3002:3002"
+    environment:
+      - NODE_ENV=production
+    networks:
+      - shared_network
+
+networks:
+  shared_network:
+    external: true
