@@ -18,4 +18,4 @@ COPY --from=builder /build/node_modules/next ./node_modules/next
 
 EXPOSE 3002
 
-CMD ["yarn", "start"]
+CMD ["node", "server.js"]
