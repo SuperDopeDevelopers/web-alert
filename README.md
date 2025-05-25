@@ -1,36 +1,78 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 얼롱 개인정보 처리방침
 
-## Getting Started
+본 개인정보 처리방침은 이용자의 **이메일 및 이름 정보 수집**과 관련한 처리 내용을 담고 있습니다.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 1. 수집하는 개인정보 항목
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+앱은 아래와 같은 개인정보를 수집합니다.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **필수 항목**: 이름, 이메일 주소
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+> 이 외의 개인정보는 수집하지 않으며, 추후 다른 항목을 수집하게 될 경우 별도로 고지하고 동의를 받습니다.
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## 2. 개인정보의 수집 및 이용 목적
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+수집한 개인정보는 다음의 목적을 위해 사용됩니다.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- 사용자 식별 및 앱 기본 기능 제공
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 3. 개인정보 보유 및 이용 기간
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- 회원 탈퇴 시 또는 수집 목적이 달성되었을 때 즉시 파기합니다.
+- 단, 관련 법령에 따라 일정 기간 보관이 필요한 경우 해당 법령에서 정한 기간 동안 보관합니다.
+
+---
+
+## 4. 개인정보의 제3자 제공
+
+서비스 제공자는 이용자의 개인정보를 제3자에게 제공하지 않습니다.  
+다만, 법령에 따라 요구되는 경우 또는 사용자의 동의를 받은 경우에는 예외로 합니다.
+
+---
+
+## 5. 개인정보 처리의 위탁
+
+현재 개인정보 처리와 관련하여 외부 업체에 위탁하지 않습니다.
+
+> 추후 위탁이 발생할 경우 위탁 대상, 위탁 업무, 보유 및 이용 기간 등을 명시하고 이용자의 동의를 받겠습니다.
+
+---
+
+## 6. 이용자의 권리 및 행사 방법
+
+이용자는 다음과 같은 권리를 가집니다.
+
+- 본인의 개인정보 열람, 정정, 삭제를 요청할 수 있습니다.
+- 개인정보 처리에 대한 동의 철회 또는 앱 탈퇴가 가능합니다.
+- 요청은 이메일(**sjw7324@gmail.com**)을 통해 접수할 수 있습니다.
+
+---
+
+## 7. 개인정보의 안전성 확보 조치
+
+서비스 제공자는 개인정보 보호를 위하여 다음과 같은 조치를 취하고 있습니다.
+
+- 개인정보 접근 제한 및 관리
+
+---
+
+## 8. 개인정보 처리방침의 변경
+
+본 방침은 관련 법령 또는 서비스 정책에 따라 변경될 수 있으며,  
+변경 시 앱 내 공지사항 또는 이메일을 통해 안내합니다.
+
+- **시행일자**: 2025년 5월 25일
+
+---
+
+## 9. 문의처
+
+개인정보 처리에 대한 문의는 아래로 연락해 주세요.
+
+- **이메일**: sjw7324@gmail.com
